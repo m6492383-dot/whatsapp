@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WhatsApp Scheduler</string>
+    <string name="accessibility_service_name">WhatsApp Automation Service</string>
+    <string name="accessibility_service_description">Automates sending scheduled WhatsApp messages and attachments as requested by the user in WhatsApp Scheduler.</string>
+</resources>
